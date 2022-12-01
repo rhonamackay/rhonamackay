@@ -1,4 +1,12 @@
-### Hi there 👋
+# Rhona Mackay 🌱
+![[LinkedIn](https://www.linkedin.com/in/rhonamackay/)](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) <a href="https://www.codewars.com/users/cooloriginals"><img src="https://www.codewars.com/users/cooloriginals/badges/small" alt="Codewars Badge"/></a> <br>
+<em>Full-stack developer in training @ [School of Code](https://www.schoolofcode.co.uk/)</em>
+
+Hi, I'm Rhona! <br>
+
+
+
+
 
 <!--
 **rhonamackay/rhonamackay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
