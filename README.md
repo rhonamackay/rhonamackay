@@ -6,7 +6,7 @@
 <p>I started learning to code in early 2022, looking for a creative career that would also allow me to stretch my problem solving muscles. </p>
 <p>I enrolled on a beginners Python class and haven't looked back since. I'm currently a developer in training at School of Code, and working on some personal projects in my spare time. You can see some examples in the repos below!</p>
 
-<p>So far I've learned Python, Ruby, JavaScript, Node.js, Express and SQL for backend; HTML, CSS and React for front-end; Jest, Cypress for testing, as well as tools like Trello, Figma and Miro for planning and design.</p>
+<p>So far I've learned Python, Ruby, JavaScript, Node.js, Express and SQL for backend; HTML, CSS and React for front-end; Jest and Cypress for testing, as well as tools like Trello, Figma and Miro for planning and design.</p>
 
 
 
