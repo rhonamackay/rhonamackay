@@ -4,7 +4,7 @@
 
 <p>Hi, I'm Rhona! I studied a joint degree in History and Modern Languages and started my career working in the public sector, most recently working in a policy team in the Department of Health and Social Care. But after writing what felt like the same letter one too many times, I realised there was something missing...</p>
 <p>I started learning to code in early 2022, looking for a creative career that would also allow me to stretch my problem solving muscles. </p>
-<p>I enrolled on a beginners Python class and haven't looked back since. I'm currently a developer in training at School of Code, and working on some personal projects in my spare time. You can see some examples in the repos below!</p>
+<p>I enrolled on a beginners Python class and haven't looked back since. I'm currently a developer in training at School of Code, and working on some personal projects in my spare time. You can see some examples in the repos below!</p> 
 
 <p>So far I've learned Python, JavaScript, Typescript, Node.js, Express and SQL for backend; HTML, CSS and React for front-end; Jest and Cypress for testing, as well as tools like Trello, Figma and Miro for planning and design.</p>
 
