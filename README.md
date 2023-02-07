@@ -22,7 +22,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-
+<p>Next up I'm refreshing my knowldege of Python, learning how to develop mobile apps with React Native and dipping my toes into the world of creative coding!</p>
 
 
 
