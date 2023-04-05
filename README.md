@@ -2,11 +2,6 @@
 <p><a href="https://www.linkedin.com/in/rhonamackay/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/></a> <a href="https://www.codewars.com/users/cooloriginals"><img src="https://www.codewars.com/users/cooloriginals/badges/small?theme=light" alt="Codewars Badge"/></a> <br>
 <em>she/her <br> junior developer</em></p>
 
-<p>Hi, I'm Rhona! I got a degree in History and Modern Languages and started my career working in the public sector, most recently working in a policy team in the Department of Health and Social Care. But after writing what felt like the same letter one too many times, I realised there was something missing...</p>
-<p>I started learning to code in early 2022, looking for a creative career that would also allow me to stretch my problem solving muscles. </p>
-<p>I enrolled on a beginners Python class and haven't looked back since. I recently finished an intensive full-stack training course at School of Code, and now I'm looking for a job and continuing to work on personal projects to build my knowledge of new technologies. You can see some examples in the repos below!</p> 
-
-<p>So far I've learned Python, JavaScript, Typescript, Node.js, Express, SQL and MongoDB for backend; HTML, CSS, React and Next.js for front-end; Jest and Cypress for testing, as well as tools like Trello, Figma and Miro for planning and design.</p>
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -21,8 +16,6 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-
-<p>Next up I'm refreshing my knowldege of Python, learning how to develop mobile apps with React Native and dipping my toes into the world of creative coding!</p>
 
 
 
