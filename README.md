@@ -1,7 +1,6 @@
 # Rhona Mackay 🌱
-<p><a href="https://www.linkedin.com/in/rhonamackay/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/></a> <a href="https://www.codewars.com/users/cooloriginals"><img src="https://www.codewars.com/users/cooloriginals/badges/small?theme=light" alt="Codewars Badge"/></a> <br>
 <em>she/her <br> junior developer</em></p>
-
+<p><a href="https://www.linkedin.com/in/rhonamackay/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/></a> <a href="https://www.codewars.com/users/cooloriginals"><img src="https://www.codewars.com/users/cooloriginals/badges/small?theme=light" alt="Codewars Badge"/></a> <br>
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
