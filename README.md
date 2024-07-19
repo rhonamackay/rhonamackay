@@ -1,5 +1,5 @@
 # Rhona Mackay 🌱
-<em>she/her <br> junior developer</em></p>
+<em>she/her <br> javascript developer</em></p>
 <p><a href="https://www.linkedin.com/in/rhonamackay/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/></a> <a href="https://www.codewars.com/users/cooloriginals"><img src="https://www.codewars.com/users/cooloriginals/badges/small?theme=light" alt="Codewars Badge"/></a> <br>
 
 <p align="left">
